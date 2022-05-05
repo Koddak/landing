@@ -1,0 +1,30 @@
+footer{
+  background-color: #2C2B2B;
+  height: 120px;
+  display: flex;
+  align-items: center;
+}
+
+.list-inline{
+  width: 300px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-inline a{
+  color: #958459;
+  font-size: 32px;
+}
+
+.list-inline a:hover{
+  color: #ffffff;
+  font-size: 32px;
+}
+
+.follow-card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
